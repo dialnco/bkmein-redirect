@@ -1,0 +1,18 @@
+{
+  "name": "bkmein-redirect",
+  "version": "1.0.0",
+  "description": "redirects to app.bookmein.xyz",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro",
+    "dev": "micro-dev"
+  },
+  "author": "Diego Cortez",
+  "license": "ISC",
+  "dependencies": {
+    "micro": "^9.1.0"
+  },
+  "devDependencies": {
+    "micro-dev": "^2.2.0"
+  }
+}
