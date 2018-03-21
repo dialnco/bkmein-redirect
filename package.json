@@ -1,7 +1,7 @@
 {
   "name": "bkmein-redirect",
   "version": "2.0.0",
-  "description": "redirects to app.bookmein.xyz",
+  "description": "redirects to app.bkmein.com",
   "main": "index.js",
   "scripts": {
     "start": "micro",
